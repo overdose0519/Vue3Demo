@@ -1,0 +1,147 @@
+Date : 2024-03-14 14:01:35
+Directory : f:\R产品线\tcndemo
+Total : 86 files,  18710 codes, 5394 comments, 1357 blanks, all 25461 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         27 |      7,210 |        663 |        811 |      8,684 |
+| Vue        |         41 |      6,005 |         21 |        355 |      6,381 |
+| JSON       |          4 |      4,462 |          0 |          4 |      4,466 |
+| HTML       |          4 |        473 |      4,687 |         59 |      5,219 |
+| CSS        |          4 |        471 |         19 |         98 |        588 |
+| SCSS       |          3 |         65 |          4 |         15 |         84 |
+| Markdown   |          1 |         22 |          0 |         14 |         36 |
+| XML        |          2 |          2 |          0 |          1 |          3 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                   | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                      |         86 |     18,710 |      5,394 |      1,357 |     25,461 |
+| . (Files)                                                              |          8 |      4,703 |      4,692 |         39 |      9,434 |
+| product                                                                |          5 |         26 |         30 |          6 |         62 |
+| product (Files)                                                        |          1 |         14 |          0 |          2 |         16 |
+| product\assets                                                         |          4 |         12 |         30 |          4 |         46 |
+| src                                                                    |         73 |     13,981 |        672 |      1,312 |     15,965 |
+| src (Files)                                                            |          2 |         56 |          0 |          6 |         62 |
+| src\api                                                                |          4 |      1,212 |        200 |        111 |      1,523 |
+| src\assets                                                             |         10 |        906 |         25 |        150 |      1,081 |
+| src\assets (Files)                                                     |          3 |         42 |          4 |         13 |         59 |
+| src\assets\elementPlus                                                 |          1 |         24 |          0 |          3 |         27 |
+| src\assets\icon-font                                                   |          5 |        839 |         21 |        134 |        994 |
+| src\assets\imgs                                                        |          1 |          1 |          0 |          0 |          1 |
+| src\components                                                         |          9 |        756 |          1 |         52 |        809 |
+| src\libs                                                               |          1 |         79 |         14 |          6 |         99 |
+| src\locales                                                            |          3 |      1,143 |         26 |         58 |      1,227 |
+| src\router                                                             |          1 |         52 |          5 |          3 |         60 |
+| src\store                                                              |          2 |         98 |          1 |          4 |        103 |
+| src\utils                                                              |          4 |      2,161 |         31 |        361 |      2,553 |
+| src\views                                                              |         37 |      7,518 |        369 |        561 |      8,448 |
+| src\views (Files)                                                      |          2 |        189 |          0 |         11 |        200 |
+| src\views\pages                                                        |         35 |      7,329 |        369 |        550 |      8,248 |
+| src\views\pages (Files)                                                |          7 |      3,488 |        358 |        330 |      4,176 |
+| src\views\pages\controlCom                                             |         19 |      2,564 |          9 |        154 |      2,727 |
+| src\views\pages\controlCom (Files)                                     |         13 |      2,271 |          9 |        129 |      2,409 |
+| src\views\pages\controlCom\layoutSetting                               |          4 |        259 |          0 |         23 |        282 |
+| src\views\pages\controlCom\locale                                      |          2 |         34 |          0 |          2 |         36 |
+| src\views\pages\interfaceCom                                           |          1 |        318 |          2 |          9 |        329 |
+| src\views\pages\recordSetting                                          |          6 |        841 |          0 |         54 |        895 |
+| src\views\pages\settingPages                                           |          2 |        118 |          0 |          3 |        121 |
+| src\views\pages\settingPages\lang                                      |          2 |        118 |          0 |          3 |        121 |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                               | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| f:\R产品线\tcndemo\.eslintrc-auto-import.json                             | JSON       |         81 |          0 |          1 |         82 |
+| f:\R产品线\tcndemo\.eslintrc.js                                           | JavaScript |         43 |          0 |          1 |         44 |
+| f:\R产品线\tcndemo\README.md                                              | Markdown   |         22 |          0 |         14 |         36 |
+| f:\R产品线\tcndemo\index.html                                             | HTML       |         13 |          0 |          1 |         14 |
+| f:\R产品线\tcndemo\package-lock.json                                      | JSON       |      4,276 |          0 |          1 |      4,277 |
+| f:\R产品线\tcndemo\package.json                                           | JSON       |         47 |          0 |          1 |         48 |
+| f:\R产品线\tcndemo\product\assets\index-3a958cc3.js                       | JavaScript |          8 |         22 |          1 |         31 |
+| f:\R产品线\tcndemo\product\assets\index-d9a19502.css                      | CSS        |          1 |          0 |          1 |          2 |
+| f:\R产品线\tcndemo\product\assets\login-00cc1c4d.js                       | JavaScript |          2 |          8 |          1 |         11 |
+| f:\R产品线\tcndemo\product\assets\login-b11a6bf2.css                      | CSS        |          1 |          0 |          1 |          2 |
+| f:\R产品线\tcndemo\product\index.html                                     | HTML       |         14 |          0 |          2 |         16 |
+| f:\R产品线\tcndemo\src\App.vue                                            | Vue        |         28 |          0 |          3 |         31 |
+| f:\R产品线\tcndemo\src\api\api.js                                         | JavaScript |        127 |         23 |         33 |        183 |
+| f:\R产品线\tcndemo\src\api\http.js                                        | JavaScript |        178 |        118 |         13 |        309 |
+| f:\R产品线\tcndemo\src\api\websocket.js                                   | JavaScript |        418 |         30 |         48 |        496 |
+| f:\R产品线\tcndemo\src\api\wsmsg.js                                       | JavaScript |        489 |         29 |         17 |        535 |
+| f:\R产品线\tcndemo\src\assets\common.scss                                 | SCSS       |         32 |          0 |          4 |         36 |
+| f:\R产品线\tcndemo\src\assets\elementPlus\index.scss                      | SCSS       |         24 |          0 |          3 |         27 |
+| f:\R产品线\tcndemo\src\assets\icon-font\demo.css                          | CSS        |        435 |         19 |         86 |        540 |
+| f:\R产品线\tcndemo\src\assets\icon-font\demo_index.html                   | HTML       |        311 |          2 |         37 |        350 |
+| f:\R产品线\tcndemo\src\assets\icon-font\iconfont.css                      | CSS        |         34 |          0 |         10 |         44 |
+| f:\R产品线\tcndemo\src\assets\icon-font\iconfont.js                       | JavaScript |          1 |          0 |          0 |          1 |
+| f:\R产品线\tcndemo\src\assets\icon-font\iconfont.json                     | JSON       |         58 |          0 |          1 |         59 |
+| f:\R产品线\tcndemo\src\assets\imgs\no-video.svg                           | XML        |          1 |          0 |          0 |          1 |
+| f:\R产品线\tcndemo\src\assets\logo.svg                                    | XML        |          1 |          0 |          1 |          2 |
+| f:\R产品线\tcndemo\src\assets\utils.scss                                  | SCSS       |          9 |          4 |          8 |         21 |
+| f:\R产品线\tcndemo\src\components\ComCard.vue                             | Vue        |         38 |          0 |          1 |         39 |
+| f:\R产品线\tcndemo\src\components\LayoutList.vue                          | Vue        |         91 |          0 |          8 |         99 |
+| f:\R产品线\tcndemo\src\components\audioController.vue                     | Vue        |        105 |          0 |          6 |        111 |
+| f:\R产品线\tcndemo\src\components\audioItem.vue                           | Vue        |        143 |          0 |          9 |        152 |
+| f:\R产品线\tcndemo\src\components\controlBar.vue                          | Vue        |         35 |          0 |          2 |         37 |
+| f:\R产品线\tcndemo\src\components\customColorPicker.vue                   | Vue        |        110 |          0 |          9 |        119 |
+| f:\R产品线\tcndemo\src\components\customDialog.vue                        | Vue        |         35 |          0 |          5 |         40 |
+| f:\R产品线\tcndemo\src\components\meetingLevel.vue                        | Vue        |         48 |          0 |          3 |         51 |
+| f:\R产品线\tcndemo\src\components\meetingPlayer.vue                       | Vue        |        151 |          1 |          9 |        161 |
+| f:\R产品线\tcndemo\src\libs\player.js                                     | JavaScript |         79 |         14 |          6 |         99 |
+| f:\R产品线\tcndemo\src\locales\cn.js                                      | JavaScript |        576 |         13 |         26 |        615 |
+| f:\R产品线\tcndemo\src\locales\en.js                                      | JavaScript |        554 |         13 |         31 |        598 |
+| f:\R产品线\tcndemo\src\locales\i18n.js                                    | JavaScript |         13 |          0 |          1 |         14 |
+| f:\R产品线\tcndemo\src\main.js                                            | JavaScript |         28 |          0 |          3 |         31 |
+| f:\R产品线\tcndemo\src\router\index.js                                    | JavaScript |         52 |          5 |          3 |         60 |
+| f:\R产品线\tcndemo\src\store\pinia.js                                     | JavaScript |         80 |          1 |          3 |         84 |
+| f:\R产品线\tcndemo\src\store\sessionStorage.js                            | JavaScript |         18 |          0 |          1 |         19 |
+| f:\R产品线\tcndemo\src\utils\bus.js                                       | JavaScript |          7 |          0 |          2 |          9 |
+| f:\R产品线\tcndemo\src\utils\formRules.js                                 | JavaScript |          9 |         23 |          3 |         35 |
+| f:\R产品线\tcndemo\src\utils\index.js                                     | JavaScript |         24 |          0 |          1 |         25 |
+| f:\R产品线\tcndemo\src\utils\layoutList.js                                | JavaScript |      2,121 |          8 |        355 |      2,484 |
+| f:\R产品线\tcndemo\src\views\Home.vue                                     | Vue        |         31 |          0 |          3 |         34 |
+| f:\R产品线\tcndemo\src\views\RecordHeader.vue                             | Vue        |        158 |          0 |          8 |        166 |
+| f:\R产品线\tcndemo\src\views\pages\Types.js                               | JavaScript |      2,137 |        349 |        254 |      2,740 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\HDMIOutput.vue              | Vue        |        112 |          0 |         11 |        123 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\TwoStepDial.vue             | Vue        |        126 |          0 |          5 |        131 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\audioLevels.vue             | Vue        |        141 |          0 |          5 |        146 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\bottomController.vue        | Vue        |        529 |          3 |         22 |        554 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\callRecord.vue              | Vue        |         52 |          0 |          3 |         55 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\confControl.vue             | Vue        |          0 |          0 |          1 |          1 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\layoutSetting\Container.vue | Vue        |        170 |          0 |         13 |        183 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\layoutSetting\Footer.vue    | Vue        |         26 |          0 |          4 |         30 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\layoutSetting\Header.vue    | Vue        |         55 |          0 |          4 |         59 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\layoutSetting\index.js      | JavaScript |          8 |          0 |          2 |         10 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\liveRecord.vue              | Vue        |        128 |          5 |          6 |        139 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\locale\controlCn.js         | JavaScript |         17 |          0 |          1 |         18 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\locale\controlEn.js         | JavaScript |         17 |          0 |          1 |         18 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\meetingControl.vue          | Vue        |        150 |          1 |         12 |        163 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\meetingController.vue       | Vue        |        305 |          0 |         25 |        330 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\mpType.vue                  | Vue        |        387 |          0 |         20 |        407 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\previewItem.vue             | Vue        |        122 |          0 |          6 |        128 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\previewVideo.vue            | Vue        |        118 |          0 |          9 |        127 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\telAddress.vue              | Vue        |        101 |          0 |          4 |        105 |
+| f:\R产品线\tcndemo\src\views\pages\controller.vue                         | Vue        |         49 |          0 |          2 |         51 |
+| f:\R产品线\tcndemo\src\views\pages\interface.vue                          | Vue        |        262 |          1 |         15 |        278 |
+| f:\R产品线\tcndemo\src\views\pages\interfaceCom\fixInterface.vue          | Vue        |        318 |          2 |          9 |        329 |
+| f:\R产品线\tcndemo\src\views\pages\layoutSet.vue                          | Vue        |        242 |          4 |         11 |        257 |
+| f:\R产品线\tcndemo\src\views\pages\liveSetting.vue                        | Vue        |        136 |          0 |         10 |        146 |
+| f:\R产品线\tcndemo\src\views\pages\login.vue                              | Vue        |        187 |          0 |         12 |        199 |
+| f:\R产品线\tcndemo\src\views\pages\player.vue                             | Vue        |        475 |          4 |         26 |        505 |
+| f:\R产品线\tcndemo\src\views\pages\recordSetting\previewItem.vue          | Vue        |         86 |          0 |          4 |         90 |
+| f:\R产品线\tcndemo\src\views\pages\recordSetting\previewVideo.vue         | Vue        |        118 |          0 |          9 |        127 |
+| f:\R产品线\tcndemo\src\views\pages\recordSetting\recordMp.vue             | Vue        |        164 |          0 |          9 |        173 |
+| f:\R产品线\tcndemo\src\views\pages\recordSetting\recordMpType.vue         | Vue        |        275 |          0 |         18 |        293 |
+| f:\R产品线\tcndemo\src\views\pages\recordSetting\recordSetting.vue        | Vue        |         57 |          0 |          2 |         59 |
+| f:\R产品线\tcndemo\src\views\pages\recordSetting\setting.vue              | Vue        |        141 |          0 |         12 |        153 |
+| f:\R产品线\tcndemo\src\views\pages\settingPages\lang\setCn.js             | JavaScript |         63 |          0 |          1 |         64 |
+| f:\R产品线\tcndemo\src\views\pages\settingPages\lang\setEn.js             | JavaScript |         55 |          0 |          2 |         57 |
+| f:\R产品线\tcndemo\stats.html                                             | HTML       |        135 |      4,685 |         19 |      4,839 |
+| f:\R产品线\tcndemo\vite.config.js                                         | JavaScript |         86 |          7 |          1 |         94 |
+| Total                                                                  |            |     18,710 |      5,394 |      1,357 |     25,461 |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+

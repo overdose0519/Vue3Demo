@@ -1,0 +1,37 @@
+
+:root {
+  --defaultFontColor:#606266;
+  --containerColor: #FFFFFF;
+}
+#app,body,html {
+  height: 100%;
+  color: (var(--defaultFontColor));
+  user-select: none;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+  background: #DCDCE2;
+}
+::-webkit-scrollbar-thumb{
+  background: #B9B9C4;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #86868f;
+  cursor: pointer;
+}
+body {
+  margin: 0;
+  font-size: 14px;
+  color: var(--defaultFontColor);
+  background-color: var(--containerColor);
+  font-family: "Microsoft YaHei", "微软雅黑", Arial, sans-serif,
+  "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB";
+}
+
+
+.flex-end{
+  display: flex;
+  justify-content: flex-end;
+}

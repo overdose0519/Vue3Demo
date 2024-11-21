@@ -1,0 +1,45 @@
+Date : 2024-03-15 11:41:13
+Directory : f:\R产品线\tcndemo
+Total : 12 files,  112 codes, 2 comments, 12 blanks, all 126 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Vue        |         11 |        107 |          0 |         13 |        120 |
+| JavaScript |          1 |          5 |          2 |         -1 |          6 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                             | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                |         12 |        112 |          2 |         12 |        126 |
+| src                                                              |         12 |        112 |          2 |         12 |        126 |
+| src\components                                                   |          3 |         -3 |          0 |          1 |         -2 |
+| src\store                                                        |          1 |          5 |          2 |         -1 |          6 |
+| src\views                                                        |          8 |        110 |          0 |         12 |        122 |
+| src\views\pages                                                  |          8 |        110 |          0 |         12 |        122 |
+| src\views\pages (Files)                                          |          2 |         26 |          0 |          2 |         28 |
+| src\views\pages\controlCom                                       |          5 |         85 |          0 |         10 |         95 |
+| src\views\pages\recordSetting                                    |          1 |         -1 |          0 |          0 |         -1 |
++------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                         | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| f:\R产品线\tcndemo\src\components\LayoutList.vue                    | Vue        |          1 |          0 |          0 |          1 |
+| f:\R产品线\tcndemo\src\components\meetingLevel.vue                  | Vue        |         -4 |          0 |          0 |         -4 |
+| f:\R产品线\tcndemo\src\components\meetingPlayer.vue                 | Vue        |          0 |          0 |          1 |          1 |
+| f:\R产品线\tcndemo\src\store\pinia.js                               | JavaScript |          5 |          2 |         -1 |          6 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\TwoStepDial.vue       | Vue        |          8 |          0 |          2 |         10 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\bottomController.vue  | Vue        |         13 |          0 |          1 |         14 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\meetingController.vue | Vue        |         47 |          0 |          6 |         53 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\previewItem.vue       | Vue        |         15 |          0 |          0 |         15 |
+| f:\R产品线\tcndemo\src\views\pages\controlCom\previewVideo.vue      | Vue        |          2 |          0 |          1 |          3 |
+| f:\R产品线\tcndemo\src\views\pages\interface.vue                    | Vue        |          3 |          0 |          0 |          3 |
+| f:\R产品线\tcndemo\src\views\pages\player.vue                       | Vue        |         23 |          0 |          2 |         25 |
+| f:\R产品线\tcndemo\src\views\pages\recordSetting\setting.vue        | Vue        |         -1 |          0 |          0 |         -1 |
+| Total                                                            |            |        112 |          2 |         12 |        126 |
++------------------------------------------------------------------+------------+------------+------------+------------+------------+
