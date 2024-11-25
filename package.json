@@ -11,14 +11,14 @@
   "dependencies": {
     "@rollup/plugin-commonjs": "^26.0.1",
     "axios": "^1.6.2",
-    "element-plus": "^2.4.2",
+    "element-plus": "^2.8.4",
     "flv.js": "^1.6.2",
     "js-md5": "^0.8.3",
     "mpegts.js": "^1.7.3",
     "pinia": "^2.1.7",
     "qs": "^6.11.2",
     "terser": "^5.24.0",
-    "vue": "^3.3.4",
+    "vue": "^3.5.13",
     "vue-i18n": "^9.7.1",
     "vue-router": "^4.2.5"
   },

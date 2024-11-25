@@ -22,7 +22,7 @@
         </el-form-item>
         <div class="checkboxs">
           <el-checkbox v-model="state.isRemember" class="remember">{{$t('message.remPsw')}}</el-checkbox>
-          <el-checkbox v-model="state.lang" true-label="en" false-label="cn" @change='translate' class="changeLang">English</el-checkbox>
+          <el-checkbox v-model="state.lang" true-value="en" false-value="cn" @change='translate' class="changeLang">English</el-checkbox>
         </div>
         <el-form-item>
           <el-button type="primary" @click="submitForm()" :loading="loading" class="submit_btn">
