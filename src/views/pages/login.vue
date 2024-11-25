@@ -50,6 +50,7 @@ const state = reactive({
   isRemember: false,
   lang: 'cn'
 });
+console.log('init');
 
 const validLegalInput = (rule, value, callback) => {
   // 只允许输入数字 大小写字母 下划线_ 空格
