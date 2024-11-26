@@ -29,7 +29,9 @@ export default defineConfig({
         enabled: true
       },
       resolvers: [
-        ElementPlusResolver(),
+        ElementPlusResolver({
+          size: 'small'
+        }),
         IconsResolver({
           prefix: 'Icon'
         })
@@ -86,10 +88,14 @@ export default defineConfig({
     minify: 'terser',
     terserOptions: {
       compress: {
-        // 生产环境时移除console
+        // 生产环境时移除console debugger
         drop_console: true,
         drop_debugger: true
       }
     }
+  },
+  define: {
+    // enable hydration mismatch details in production build
+    __VUE_PROD_HYDRATION_MISMATCH_DETAILS__: 'true'
   }
 })
